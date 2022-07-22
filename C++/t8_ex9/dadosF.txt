@@ -1,0 +1,7 @@
+A:Joca Gaio;Rua do meio n 4;(20/9/1987);25029;Ferragem;800;10;
+A:Ana Rola;Rua da esquerda n 3;(23/2/1990);25028;Comercial;900;1;
+O:Daniel;Morada do Daniel;(11/11/1111);12345;setor1;500;5;sim;
+A:Maria;Morada da Maria;(22/12/1122);12346;setor2;600;0;
+O:Jonas Culatra;Rua da direita n 2;(20/9/1987);25023;Pintura;1100;20;sim;
+A:Joni Rato;Rua da esquerda n 3;(4/2/1990);25024;Comercial;900;0;
+O:Luis Carlos;Rua Central n22;(1/12/1985);10000;Ferragem;1100;0;nao;

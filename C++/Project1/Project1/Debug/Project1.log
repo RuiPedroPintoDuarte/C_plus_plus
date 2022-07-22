@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(6,8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(12,2): error C3861: 'swtich': identifier not found
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(15,3): error C2059: syntax error: 'case'
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(16,3): error C2046: illegal case
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(16,13): error C3861: 'pritnf': identifier not found
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(17,3): error C2046: illegal case
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(17,13): error C3861: 'pritnf': identifier not found
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(18,3): error C2046: illegal case
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(18,13): error C3861: 'pritnf': identifier not found
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(19,3): error C2047: illegal default
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(15,32): error C2043: illegal break
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(16,34): error C2043: illegal break
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(17,36): error C2043: illegal break
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(18,31): error C2043: illegal break
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(22,1): error C2059: syntax error: '}'
+C:\Users\rppin\Desktop\Faculdade\C++\Project1\Project1\Source.cpp(22,1): error C2143: syntax error: missing ';' before '}'
